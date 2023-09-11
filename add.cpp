@@ -4,11 +4,11 @@ using namespace std;
 
 int  main()
 {
-Int x, y;
+int x, y;
 
 cin >> x >> y;
 
-court <<"the addition result = ";
+cout <<"the addition result = ";
 
 cout << x + y;
 
